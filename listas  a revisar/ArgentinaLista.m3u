@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:64, Canal 5 del Pueblo
+#EXTVLCOPT:network-caching=2000
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:64, Crossing TV
+#EXTVLCOPT:network-caching=2000
+https://stmv6.voxtvhd.com.br/crossingtv/crossingtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:25, Milennio TV
+#EXTVLCOPT:network-caching=2000
+https://stmvideo6.livecastv.com/milennio/milennio/playlist.m3u8?PlaylistM3UCL
+#EXTINF:24, N24TV
+#EXTVLCOPT:network-caching=2000
+https://videostream.shockmedia.com.ar:19360/n24tv/n24tv.m3u8?PlaylistM3UCL
+#EXTINF:19, Neo TV
+#EXTVLCOPT:network-caching=2000
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
+#EXTINF:24, San Luis Mas
+#EXTVLCOPT:network-caching=2000
+https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8?PlaylistM3UCL
+#EXTINF:64, Señal Urbana
+#EXTVLCOPT:network-caching=2000
+https://stmv1.voxtvhd.com.br/urbanamas/urbanamas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:60, UCL Televisión LATAM
+#EXTVLCOPT:network-caching=2000
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
+#EXTINF:25, Mundo de la Musica TV
+#EXTVLCOPT:network-caching=2000
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Retro Plus TV
+#EXTVLCOPT:network-caching=2000
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:23, ZyoonTV | UY
+#EXTVLCOPT:network-caching=2000
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:33, 5TV | AR
+#EXTVLCOPT:network-caching=2000
+https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:18, Aire de Santa Fe | AR
+#EXTVLCOPT:network-caching=2000
+https://redirector.dps.live/hls/airedesantafetv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:36, Argentinisima Satelital | AR
+#EXTVLCOPT:network-caching=2000
+https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
+#EXTINF:50, Bravo TV | AR
+#EXTVLCOPT:network-caching=2000
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:98, Cadena 103 | AR
+#EXTVLCOPT:network-caching=2000
+https://streamlov.alsolnet.com/cadena103/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:12, Canal 10 | AR
+#EXTVLCOPT:network-caching=2000
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:54, Canal 11 de La Costa | AR
+#EXTVLCOPT:network-caching=2000
+https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8?PlaylistM3UCL
+#EXTINF:12, Canal 13 La Rioja | AR
+#EXTVLCOPT:network-caching=2000
+https://stream.arcast.net:4443/mp/mp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:110, Canal 2 Misiones | AR
+#EXTVLCOPT:network-caching=2000
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
+#EXTINF:30, Canal 22 Buenos Aires | AR
+#EXTVLCOPT:network-caching=2000
+https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL
+#EXTINF:29, Canal 3 Formosa | AR
+#EXTVLCOPT:network-caching=2000
+https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8?PlaylistM3UCL
+#EXTINF:25, Canal 3 La Pampa | AR
+#EXTVLCOPT:network-caching=2000
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Canal 3 Las Heras | AR
+#EXTVLCOPT:network-caching=2000
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:10, Canal 3 Pinamar | AR
+#EXTVLCOPT:network-caching=2000
+https://intelincloud01.com.ar/hls/cn3/index.m3u8?PlaylistM3UCL
+#EXTINF:48, Canal 34 San Juan | AR
+#EXTVLCOPT:network-caching=2000
+https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Canal 4 Esquel | AR
+#EXTVLCOPT:network-caching=2000
+https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Canal 4 Jujuy | AR
+#EXTVLCOPT:network-caching=2000
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8?PlaylistM3UCL
+#EXTINF:35, Canal 4 Posadas | AR
+#EXTVLCOPT:network-caching=2000
+https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8?PlaylistM3UCL
+#EXTINF:31, Canal 5 Pico Truncado | AR
+#EXTVLCOPT:network-caching=2000
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8?PlaylistM3UCL
+#EXTINF:29, Canal 5 Santa Fe | AR
+#EXTVLCOPT:network-caching=2000
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Canal 50 Morteros | AR
+#EXTVLCOPT:network-caching=2000
+https://online.coopmorteros.coop/canal50/vivo.m3u8?PlaylistM3UCL
+#EXTINF:29, Canal 7 Jujuy | AR
+#EXTVLCOPT:network-caching=2000
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Canal 7 Neuquen | AR
+#EXTVLCOPT:network-caching=2000
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Canal 7 Santiago del Estero | AR
+#EXTVLCOPT:network-caching=2000
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:24, Canal 79 Mar del Plata | AR
+#EXTVLCOPT:network-caching=2000
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8?PlaylistM3UCL
+#EXTINF:24, Canal 9 Litoral | AR
+#EXTVLCOPT:network-caching=2000
+https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
+#EXTINF:23, Canal 907 FM Comunicar | AR
+#EXTVLCOPT:network-caching=2000
+https://panel.host-live.com:19360/canal907/canal907.m3u8?PlaylistM3UCL
+#EXTINF:15, Canal E | AR
+#EXTVLCOPT:network-caching=2000
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:50, Caras TV | AR
+#EXTVLCOPT:network-caching=2000
+https://unlimited1-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:30, Catamarca TV | AR
+#EXTVLCOPT:network-caching=2000
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:24, Celta TV | AR
+#EXTVLCOPT:network-caching=2000
+https://vivo.solumedia.com:19360/celta/celta.m3u8?PlaylistM3UCL
+#EXTINF:10, Chaco TV | AR
+#EXTVLCOPT:network-caching=2000
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:80, Ciudad Magica TV | AR
+#EXTVLCOPT:network-caching=2000
+https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8?PlaylistM3UCL
+#EXTINF:30, Ciudad TV Resistencia | AR
+#EXTVLCOPT:network-caching=2000
+https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8?PlaylistM3UCL
+#EXTINF:24, Corrientes TV | AR
+#EXTVLCOPT:network-caching=2000
+https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8?PlaylistM3UCL
+#EXTINF:166, Cosmos TV | AR
+#EXTVLCOPT:network-caching=2000
+https://canaletaplus.com:3922/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:30, Eco TV | AR
+#EXTVLCOPT:network-caching=2000
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:64, El Palomar TV Tucuman | AR
+#EXTVLCOPT:network-caching=2000
+https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:25, FM Universo | AR
+#EXTVLCOPT:network-caching=2000
+https://live20.bozztv.com/giatv/giatv-universotv/universotv/chunks.m3u8?PlaylistM3UCL
